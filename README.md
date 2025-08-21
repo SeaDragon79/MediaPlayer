@@ -18,8 +18,8 @@
 
 ## 预览
 
-*(此处可添加项目截图或演示GIF)*
-<img width="800" height="568" alt="image" src="https://github.com/user-attachments/assets/cf795b44-fbf1-4424-bd86-eab75f1b2952" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b54730b2-5dd9-48b0-b4c9-f4da7cde3b93" />
+
 
 
 
