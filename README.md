@@ -89,6 +89,7 @@ git clone https://github.com/SeaDragon79/MediaPlayer.git
 cd MediaPlayer
 ```
 2、使用 Qt Creator 打开 MediaPlayer.pro，配置 kit 和 libvlc 路径，然后构建并运行。
+
 或使用命令行（需配置好 Qt 环境变量）：
 ```bash
 mkdir build && cd build
