@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/MainWidget">
+        <file>resources/titleBar/close.svg</file>
+        <file>resources/titleBar/close_hover.svg</file>
+        <file>resources/titleBar/down.svg</file>
+        <file>resources/titleBar/max.svg</file>
+        <file>resources/titleBar/max_hover.svg</file>
+        <file>resources/titleBar/min.svg</file>
+        <file>resources/titleBar/min_hover.svg</file>
+        <file>resources/titleBar/normal.svg</file>
+        <file>resources/titleBar/small.svg</file>
+        <file>resources/titleBar/small_hover.svg</file>
+        <file>resources/titleBar/top.svg</file>
+        <file>resources/titleBar/top_hover.svg</file>
+        <file>resources/titleBar/up.svg</file>
+        <file>resources/bottomBar/full.svg</file>
+        <file>resources/bottomBar/next.svg</file>
+        <file>resources/bottomBar/play.svg</file>
+        <file>resources/bottomBar/prev.svg</file>
+        <file>resources/bottomBar/screen.svg</file>
+        <file>resources/bottomBar/set.svg</file>
+        <file>resources/bottomBar/stop.svg</file>
+        <file>resources/bottomBar/volume.svg</file>
+        <file>resources/vedioWidget/down.svg</file>
+        <file>resources/vedioWidget/openfile.svg</file>
+        <file>resources/vedioWidget/up.svg</file>
+        <file>resources/vedioWidget/left.svg</file>
+        <file>resources/vedioWidget/right.svg</file>
+    </qresource>
+</RCC>
